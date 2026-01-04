@@ -17,6 +17,7 @@ This space showcases my projects and continuous learning journey._
 
 ***Database:***
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=KinNaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
