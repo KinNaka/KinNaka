@@ -1,9 +1,9 @@
 # 💫 About Me:
 🌍 Based In Ho Chi Minh City, VietNam | 💡 Passionate about back-end development
 
-Welcome to my GitHub profile!
-I’m a backend-focused developer with a strong interest in system design, APIs, and distributed systems.
-This space showcases my projects and continuous learning journey.
+*Welcome to my GitHub profile!*
+_I’m a backend-focused developer with a strong interest in system design, APIs, and distributed systems.
+This space showcases my projects and continuous learning journey._
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiahuy) 
