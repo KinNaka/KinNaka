@@ -1,26 +1,56 @@
-# 💫 About Me:
-🌍 Based In Ho Chi Minh City, VietNam | 💡 Passionate about back-end development
+# 💫 About Me
 
-*Welcome to my GitHub profile!*
-_I’m a backend-focused developer with a strong interest in system design, APIs, and distributed systems.
-This space showcases my projects and continuous learning journey._
+🌍 Ho Chi Minh City, Vietnam  
+💻 Backend Developer | 🤖 AI-Assisted Coding Enthusiast  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiahuy) 
+Backend-focused developer with hands-on experience in designing and building RESTful APIs, authentication systems, and scalable server-side applications.
 
-## 💻 Tech Stack:
- ***Back-end:***
- 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+I actively leverage **AI-powered development tools** to improve productivity, optimize code quality, accelerate debugging, and enhance system design decisions.
 
-***Framework:***
+Strong interest in:
+- System Architecture & Clean Architecture
+- Distributed Systems & Microservices
+- Database Design & Optimization
+- Blockchain-integrated systems
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-***Database:***
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+This GitHub showcases my real-world projects and continuous learning journey toward production-level backend engineering.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KinNaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect with Me
+
+🔗 LinkedIn: https://linkedin.com/in/truonggiahuy  
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Backend
+- C#
+- Java
+- JavaScript
+- .NET
+- Spring Boot
+
+### 🤖 AI Coding & Development Tools
+- Prompt engineering for development workflows
+- Productivity optimization using AI tools
+
+### 🌐 Frontend (Supporting Skills)
+- React
+- Flutter
+
+### 🗄 Database
+- MySQL
+- PocketBase
+- Firebase
+- Database schema design & query optimization
+
+---
+
+## 🔥 Core Strengths
+- Strong backend problem-solving mindset
+- Scalable and maintainable system design
+- Fast learner with project-based practice
+- Effective use of AI tools to enhance development workflow
+- Continuous improvement & self-driven learning
