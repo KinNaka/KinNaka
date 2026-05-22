@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🌍 Ho Chi Minh City, Vietnam  
+🌍 Can Tho City, Vietnam  
 💻 Backend Developer | 🤖 AI-Assisted Coding Enthusiast  
 
 Backend-focused developer with hands-on experience in designing and building RESTful APIs, authentication systems, and scalable server-side applications.
