@@ -11,7 +11,6 @@ Strong interest in:
 - System Architecture & Clean Architecture
 - Distributed Systems & Microservices
 - Database Design & Optimization
-- Blockchain-integrated systems
 
 This GitHub showcases my real-world projects and continuous learning journey toward production-level backend engineering.
 
@@ -28,16 +27,13 @@ This GitHub showcases my real-world projects and continuous learning journey tow
 ### 🚀 Backend
 - C#
 - Java
-- JavaScript
 - .NET
-- Spring Boot
 
 ### 🤖 AI Coding & Development Tools
 - Prompt engineering for development workflows
 - Productivity optimization using AI tools
 
 ### 🌐 Frontend (Supporting Skills)
-- React
 - Flutter
 
 ### 🗄 Database
